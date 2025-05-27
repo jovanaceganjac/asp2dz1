@@ -1,0 +1,3 @@
+C:/Users/Home/OneDrive/Desktop/cj220423/cmake-build-debug/CMakeFiles/cj220423.dir
+C:/Users/Home/OneDrive/Desktop/cj220423/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Home/OneDrive/Desktop/cj220423/cmake-build-debug/CMakeFiles/rebuild_cache.dir
